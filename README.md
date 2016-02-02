@@ -17,6 +17,9 @@ A simple list of the top 5 news headlines could be shown. Digging deeper could p
 ####xkcd
 Ladyada's shows the most recent xkcd comic, and I think that's a glorious idea.
 
+####Package Tracking
+By either using Amazon's API, or by searching through recent emails, I could show which orders have been shipped or if something is arriving today.
+
 ####Recognition
 Using the API from indico.io, it could be pretty simple to recognize a face in the image and provide personal context to the disply. If motion is detected in the frame, then an image could be captured and analyzed.
 
